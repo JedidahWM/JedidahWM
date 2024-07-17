@@ -8,9 +8,7 @@ My older brother first exposed me to the field of computer science. I've had a p
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [Jedidahwm06@gmail.com](mailto:Jedidahwm06@gmail.com)
-* 🧠  I'm learning Societal and Ethical Harms Caused by Artificial Intelligence
-* 🤝  I'm open to collaborating on any small projects to add to my porfolio
-* ⚡  I can read minds
+
 
 ### Skills
 
