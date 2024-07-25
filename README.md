@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-My older brother first exposed me to the field of computer science. I've had a passion for it ever since and would love to create a career out of it.
+I want to CODE
 
-* 🌍  I'm based in Boston, MA
-* ✉️  You can contact me at [Jedidahwm06@gmail.com](mailto:Jedidahwm06@gmail.com)
+* Boston, MA
+* You can contact me at [Jedidahwm06@gmail.com](mailto:Jedidahwm06@gmail.com)
 
 
 ### Skills
