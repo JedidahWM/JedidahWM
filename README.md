@@ -1,4 +1,4 @@
-Hi ![](https://media0.giphy.com/media/bgu2GvmWzB7msNmevT/200w.gif width="50px" height="50px")My name is Jedidah Mwaura
+Hi! I'm Jedidah Mwaura. 
 ======================================================================================================================================
 
 Computer Science Student
