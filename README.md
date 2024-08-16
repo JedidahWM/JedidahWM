@@ -1,4 +1,4 @@
-Hi ![](https://i.pinimg.com/originals/f6/a7/66/f6a766f67cfc82a119a0b7c7963af87a.gif)My name is Jedidah Mwaura
+Hi ![](https://media0.giphy.com/media/bgu2GvmWzB7msNmevT/200w.gif width="50px" height="50px")My name is Jedidah Mwaura
 ======================================================================================================================================
 
 Computer Science Student
@@ -11,15 +11,6 @@ I want to CODE
 * ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sentia/30-nites-of-code)  
   ![@sentia #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sentia)
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
 
 
 ### Socials
