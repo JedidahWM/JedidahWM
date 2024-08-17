@@ -8,9 +8,7 @@ I want to CODE
 
 * Boston, MA
 * You can contact me at [Jedidahwm06@gmail.com](mailto:Jedidahwm06@gmail.com)
-* ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@sentia/30-nites-of-code)  
-  ![@sentia #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sentia)
+  ![Alt Text](https://media4.giphy.com/media/leuNkvf9pE6loEnjnb/giphy.gif)
 
 
 ### Socials
