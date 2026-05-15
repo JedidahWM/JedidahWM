@@ -1,10 +1,10 @@
-Hi! I'm Jedidah Mwaura. 
+Hi! I'm Jedi. 
 ======================================================================================================================================
 
-Computer Science Student @WIT
+Computer Science Student 
 ------------------------
 * Boston, MA
-* You can contact me at [Jedidahwm06@gmail.com](mailto:Jedidahwm06@gmail.com) or [Linkedin](mailto:https://www.linkedin.com/in/jedidahwm/)
+* You can contact me at [Linkedin](mailto:https://www.linkedin.com/in/jedidahwm/)
 
 ![Alt Text](https://media4.giphy.com/media/leuNkvf9pE6loEnjnb/giphy.gif)
 
